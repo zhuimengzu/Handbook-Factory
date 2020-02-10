@@ -14,19 +14,19 @@
   <span><a href="./README.md">中文</a> | <a href="./README.en.md">English</a></span>
 </p>
 
-## 项目简介
-手册工厂，记录了开发过程中用到的各种工具和技术的所思，所想，所得。
+## Project Description
+The manual factory records the thoughts, thoughts, and results of various tools and technologies used in the development process.
 
-## 开发工具
+## Development tools
 - **WinCHM pro**
 
-WinCHM pro破解版是一款功能强大的帮助创作工具。现在基本上每个软件都会提供一个使用帮助，而WinCHM pro正是为此而生，不管是HTML帮助（CHM），Web帮助，PDF和Word文档都能轻而易举的完成制作，不仅可以从头开始创建一个完整的帮助文件，还拥有方便的转换功能，可快速将一组HTML文件转换为CHM文件。
+WinCHM pro cracked version is a powerful tool to help authoring. Now basically every software will provide a help, and WinCHM pro is born for this purpose. Whether it is HTML help (CHM), Web help, PDF and Word documents can be easily created, not only can you create one from scratch The complete help file also has a convenient conversion function, which can quickly convert a set of HTML files into CHM files.
 
-WinCHM Pro 的下载和破解参考：https://m.sdbeta.com/wg/2019/0209/228407.html
+WinCHM Pro Download and Crack Reference：https://m.sdbeta.com/wg/2019/0209/228407.html
 
-## 仓库目录介绍
+## Directory Introduction
 
-| 目录名称                                                  | 目录介绍                                                  |
+| Directory Name                                                  | Directory Introduction                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [handbooks](./handbooks) | 存放所有 CHM 帮助文档                               |
 | [materials](./materials) | 存放生成 CHM 帮助文档的原材料文件                             |
